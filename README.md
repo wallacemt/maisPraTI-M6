@@ -1,7 +1,7 @@
 # Módulo 7 - Desenvolvimento de API’s Rest com Spring Boot
 
 Bem-vindo ao repositório do Módulo 7 do bootcamp Mais para TI! Este módulo é focado no desenvolvimento de API’s REST utilizando o framework Spring Boot. Ao longo deste módulo, os alunos aprenderão os conceitos essenciais para criar e gerenciar API’s de forma eficaz com Spring Boot.
-
+<img src='https://drive.google.com/uc?export=view&id=1Fooc9CztSNlrtpbNYy4osQXuJNvS0uXb' width="800">
 ## 🚀 Objetivos do Módulo
 
 O principal objetivo deste módulo é capacitar os alunos a desenvolverem API’s REST eficientes, compreendendo as boas práticas de segurança, manipulação de dados e testes. Ao final do módulo, você será capaz de:
